@@ -44,13 +44,14 @@ body {
 .image-container {
     /* border: coral 1px solid; */
     height: 260px;
+    /* width: 100%; */
     padding: 20px;
     overflow: hidden;
 }
 
 #equilibrium {
     height: 100%;
-    width: auto;
+    /* width: auto; */
     border-radius: 5px;
 }
 
